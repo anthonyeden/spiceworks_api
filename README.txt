@@ -5,6 +5,9 @@ JSON API data from their Internal JSON API
 It is very simple procedural code that you may want to re-work for your own purposes
 I'm going to turn this into a class someday.
 
+Here's the blog post introducing and explaining this script:
+http://mediarealm.com.au/articles/2013/01/spiceworks-external-json-api-getting-started/
+
 Caution: This may break in the future if Spiceworks changes the way they authenticate.
 
 Version: 1
