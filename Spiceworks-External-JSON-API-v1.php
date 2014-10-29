@@ -82,8 +82,9 @@ if($debugMode) {
 $loginFields = array(
 		'authenticity_token' => urlencode($authToken),
 		'_pickaxe' => urlencode('⸕'), //This was included in the original login form, so I'm including it here.
-		'user[email]' => urlencode($username),
-		'user[password]' => urlencode($password),
+		// as of version 7.2.000519 the username and password fields have changed to pro_user 
+		'pro_user[email]' => urlencode($username),
+		'pro_user[password]' => urlencode($password),
 		'btn' => urlencode('login')
 	);
 
