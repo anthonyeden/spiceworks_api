@@ -12,7 +12,7 @@ Caution: This may break in the future if Spiceworks changes the way they authent
 
 Version: 1
 
-Copyright (c) 2012-2013, Media Realm http://mediarealm.com.au/
+Copyright (c) 2012-2019, Media Realm http://mediarealm.com.au/
 All rights reserved.
 
 
